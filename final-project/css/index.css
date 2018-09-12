@@ -13,10 +13,11 @@ h1 {
   color: #F0F8FF;
 }
 
-.flex-container {
-  display: flex;
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
   width: 100vw;
   height: 100vh;
-  flex-direction: column
+  
   
 }
