@@ -1,0 +1,22 @@
+body {
+  background-color: #708090;
+  font-family: Georgia;
+  font-size: 12pt;
+}
+
+header {
+  text-align:center;
+  padding-bottom: 10px;
+}
+
+h1 {
+  color: #F0F8FF;
+}
+
+.flex-container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column
+  
+}
