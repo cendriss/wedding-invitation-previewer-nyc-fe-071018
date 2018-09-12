@@ -17,5 +17,5 @@ h1 {
   display: grid;
   grid-template-columns: auto auto;
  padding:10px;
- grid
+ grid-gap:10px
 }
